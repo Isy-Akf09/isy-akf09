@@ -1,10 +1,12 @@
 ### Olá! Meu nome é Isabelly! 
 
+- 💻 programadora FrontEnd
+- 🎓 Estudante Animação 2D
+- 🔸 Degsiner de ilustração 2D
 - 🌸 Estudando Linguagens: C, HTML, CSS & Bootstrap
 - 🍀 Aniversario: 28/03/2008 (15 anos)
-- 🌐 Como me achar: @isycris09 ou @isabellyCristina
-- 🔸 Pronomes: Ela/Dela
-- ❔ Atuamente sou: programadora FrontEnd
+- 🌐 Como me achar: @isycris09 ou @isabellyCris
+
 
 <div>
   <a href="https://beacons.ai/Isy-Akf09">
