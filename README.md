@@ -27,7 +27,7 @@
  <div>
    <a href="https://wa.me/qr/A2F2TZ6LLIWFO1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    <a href="https://youtube.com/@static-memorys" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-     <a href="https://instagram.com/isy_cris09/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=Instagram&logoColor=white" />
+     <a href="https://instagram.com/isy_cris09/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge&logo=Instagram&logoColor=white" />
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
    <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blac"/>
