@@ -1,10 +1,11 @@
 ### Olá! Meu nome é Isabelly! 
 
+- 🎮 Desenvolvedora de Jogos
 - 💻 programadora FrontEnd
 - 🎓 Estudante Animação 2D
 - 🔸 Degsiner de ilustração 2D
-- 🌸 Estudando Linguagens: C, HTML, CSS & Bootstrap
-- 🍀 Aniversario: 28/03/2008 (15 anos)
+- 🌸 Estudando Linguagens: C, C#, HTML, CSS & Bootstrap
+- 🍀 Aniversario: 28/03/2008 (17 anos)
 - 🌐 Como me achar: @isycris09 ou @isabellyCris
 
 
