@@ -12,7 +12,6 @@
 <div>
   <a href="https://beacons.ai/Isy-Akf09">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isy-Akf09&show_icons=true&theme=date_night&include_all_commits=true&cont_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isy-Akf09&layout=compact&lang_cont=16&theme=date_night"/>
 </div>
 
 <div style="display: inline_block"><br>
