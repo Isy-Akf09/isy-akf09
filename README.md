@@ -1,4 +1,4 @@
-### Olá! Meu nome é Isabelly! 
+### Sou Isy! estudante em progresso!
 
 - 🎮 Desenvolvedora de Jogos
 - 🎓 Estudante Animação 2D
