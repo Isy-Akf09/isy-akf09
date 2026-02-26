@@ -10,7 +10,6 @@
 
 <div>
   <a href="https://about.me/isycris09"> Portifolio ABOUT ME!^^
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isy-Akf09&show_icons=true&theme=date_night&include_all_commits=true&cont_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
